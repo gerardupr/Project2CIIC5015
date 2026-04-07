@@ -1,4 +1,3 @@
-# Fully-Connected-Neural-Network
-# [April 1, 2026]
-# Project II
+# Project 2 - Fully-Connected-Neural-Network
+# [April 6, 2026]
 # CIIC5015-096
